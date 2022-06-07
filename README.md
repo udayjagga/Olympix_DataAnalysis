@@ -12,6 +12,7 @@ Totally there are 49 sports. The Dataset contains the olympics winners from year
 For every event there are three winners ( like Gold Medal, Silver Medal and Bronze Medal ). Therefore various data is generated. So, by using Python I will analyze this data.
 
 In PySpark project, Using the Olympic Data set that have been Cleaned in pandas like removing duplicates and special characters that present in features.
+
 ## Problem Statement:
 Throughout this project, I will explore the Olympics dataset, clean the data and look at some interesting statistics and then try to find out which country has won more number of Medals in Olympic Games.
 
