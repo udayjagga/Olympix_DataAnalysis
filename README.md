@@ -25,4 +25,3 @@ Throughout this project, I will explore the Olympics dataset, clean the data and
 
 ### Purpose
 This dataset can be used for predictive data analytics purpose.
-
